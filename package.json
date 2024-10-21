@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.5.4",
+    "@next/swc-darwin-arm64": "^14.2.13",
     "@tabler/icons-react": "^3.11.0",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.5",
     "openai": "^4.53.0",
